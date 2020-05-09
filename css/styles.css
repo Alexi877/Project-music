@@ -1,0 +1,26 @@
+body {
+    background-color:grey !important;
+}
+.list-group {
+    color:black;
+    background-color:grey;
+    height:25px;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.list-group-item audio{
+    width:100px;
+    height:25px;
+    padding: 0px 0px;
+}
+.list-group-item p{
+    display:inline;
+}
+
+
+.profile-info {
+    margin-top:25vh;
+}
+.song-list p{
+    display:inline;
+}
