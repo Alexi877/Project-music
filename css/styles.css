@@ -24,3 +24,7 @@ body {
 .song-list p{
     display:inline;
 }
+.liveplay{
+    background-color:rgba(0,0,0,.5);
+    height:350px;
+}
